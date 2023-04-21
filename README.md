@@ -18,19 +18,6 @@ npm run serve
 npm run build
 ```
 
-### 后台 GitHub 地址
-
-https://github.com/Binaryify/NeteaseCloudMusicApi
-开发时对应版本：4.0.23
-若出现问题则选择最新版本
-
-### 预览地址
-
-[仿网易云音乐预览地址 ](http://47.102.159.133/)
-### uni-app版
-
-[uni-app版仓库 ](https://gitee.com/crazybox521/uni-music)
-
 ### 目前完成功能
 
 - 歌曲播放器：播放、拖动进度、音量调整、下载、播放列表，歌曲页歌词滚动、评论
